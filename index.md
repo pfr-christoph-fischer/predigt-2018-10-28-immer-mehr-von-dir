@@ -10,7 +10,7 @@ summary: "\"Mehr von dir\": Mehr mit Werten leben. Mehr Gutes tun. Mehr glauben,
 source: pfarrplaner
 source_id: "138@www.pfarrplaner.de"
 cover_alt: "Titelbild zur Predigt \"Immer mehr von dir\"."
-audio: audio.mp3
+audio: immer-mehr-von-dir.mp3
 audio_duration: "16:24"
 legacy_id: 138
 events:
